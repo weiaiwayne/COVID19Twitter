@@ -25,35 +25,13 @@ Understandably, these are only a small part of all relevant hashtags; @jasonbaum
 
 We started off with a low-budget and low-carbon approach to data collection: we set up five Python scripts using 5 different Twitter API tokens on a [Raspberry pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) to pull tweets from the Twitter REST API. The scripts run at 10~15-hour intervals. Our final dataset is huge, recording millions of tweets, but unlikely all-encompassing due to the rate limits of the REST API and the arbitrary time intervals. The dataset is, at best, a convenience sample of the global Twitterverse.  
 
+The visualization you are seeing here is a spin-off of a larger project on the politicization of COVID-19. Even based on the incomplete data, the visualization should give you a glimpse into how the conversation has evolved and where it is heading.  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Timeline
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weiaiwayne/COVID19Twitter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+In the coming weeks/months, we will roll out the visualization one hashtag at a time. Because Pushshift.io will soon publish 250 million tweets related to the Coronavirus (https://twitter.com/jasonbaumgartne/status/1240469078009171970), which is a much bigger dataset than the one we currently use. We plan to build a separate visualization based on the Pushshift dataset in the near future.  
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having question with the visualization? Want a collaboration on research or grants? Please contact me [@WeiaiWayne](https://twitter.com/WeiaiWayne).
