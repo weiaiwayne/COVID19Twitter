@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Visualizing the Twitter discourse on COVID-19
 
-You can use the [editor on GitHub](https://github.com/weiaiwayne/COVID19Twitter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research team started collecting COVID-19-related tweets in late January, 2020, shortly after the lockdown of Wuhan, and weeks before the novel coronavirus was given the official name COVID-19. The hashtags we have been tracking include: _#CoronavirusOutbreak_, _#COVID19_, _#Coronvirus_, _#nCoV2019_, _#2019nCov_, _#WuhanCoronavirus_, _#CoronavirusChina_, _#CoronaVirusUpdate_, _#CoronavirusPandemic_, _#Wuhanvirus_, _#Wuhancoronavirus_, _#WuhanOutbreak_, _#Wuhanquarantine_, _#FlattenTheCurve_, _#COVID19US_, etc. Understandably, these are only a small part of all relevant hashtags; @jasonbaumgartne from Pushshift.io found over one million COVID-19-related hashtags [the list](https://files.pushshift.io/coronavirus_hashtags.txt).  
 
 ### Markdown
 
