@@ -7,7 +7,7 @@
 ### Twitter Bio Hashtag Networks 
 _The networks are created based on the co-occurrence of hashtags in Twitter bios of anyone who tweeted, retweeted, or mentioned #CoronavirusOutbreak. The Twitter Bio Hashtag Networks reveal user clusters defined by geography, ideologies, topics, and interests._
 
-- [#CoronavirusOutbreak](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Bio_Hashtag_Networks.html){:target="_blank" rel="noopener"}
+- #CoronavirusOutbreak [the interactive version](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Bio_Hashtag_Networks.html){:target="_blank" rel="noopener"} 
 
 
 ### What data are we collecting
