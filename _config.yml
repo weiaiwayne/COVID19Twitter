@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+logo: thumbnail.png
+description: Visualizing the Twitter discourse on COVID-19
+show_downloads: false
+google_analytics: "UA-106549416-3"
+theme: jekyll-theme-minimal
