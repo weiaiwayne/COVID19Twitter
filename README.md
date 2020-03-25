@@ -1,19 +1,8 @@
 ## Visualizing the Twitter discourse on COVID-19
 
-### Daily Counts
 
-- [#CoronavirusOutbreak](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_DailyCount.html){:target="_blank" rel="noopener"}
-
-### Twitter Bio Hashtag Networks 
-_The networks are created based on the co-occurrence of hashtags in Twitter bios of anyone who tweeted, retweeted, or mentioned #CoronavirusOutbreak. The Twitter Bio Hashtag Networks reveal user clusters defined by geography, ideologies, topics, and interests._
-
-- #CoronavirusOutbreak [the interactive version](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Bio_Hashtag_Networks.html){:target="_blank" rel="noopener"} 
-
-
-### What data are we collecting
-My research team started collecting COVID-19-related tweets in late January, 2020, shortly after the lockdown of Wuhan, and weeks before the novel coronavirus was given the official name COVID-19. The hashtags we have been tracking include: 
-
-- _#CoronavirusOutbreak_
+### The Hashtags
+- _#CoronavirusOutbreak_: [Daily Counts](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_DailyCount.html){:target="_blank" rel="noopener"} [Twitter Bio Hashtag Networks](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Bio_Hashtag_Networks.html){:target="_blank" rel="noopener"}
 - _#COVID19_ 
 - _#Coronvirus_
 -_#nCoV2019_ 
@@ -29,9 +18,8 @@ My research team started collecting COVID-19-related tweets in late January, 202
 - _#FlattenTheCurve_ 
 - _#COVID19US_, etc. 
 
-Understandably, these are only a small part of all relevant hashtags; @jasonbaumgartne from Pushshift.io found over one million COVID-19-related hashtags [the list](https://files.pushshift.io/coronavirus_hashtags.txt).  
-
 ### How the data are collected
+My research team started collecting COVID-19-related tweets in late January, 2020, shortly after the lockdown of Wuhan, and weeks before the novel coronavirus was given the official name COVID-19. Understandably, the hashtags included in the project are only a small part of all relevant hashtags; @jasonbaumgartne from Pushshift.io found over one million COVID-19-related hashtags [the list](https://files.pushshift.io/coronavirus_hashtags.txt). 
 
 We started off with a low-budget and low-carbon approach to data collection: we set up five Python scripts using 5 different Twitter API tokens on a [Raspberry pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) to pull tweets from the Twitter REST API. The scripts run at 10~15-hour intervals. Our final dataset is huge, recording millions of tweets, but unlikely all-encompassing due to the rate limits of the REST API and the arbitrary time intervals. The dataset is, at best, a convenience sample of the global Twitterverse.  
 
