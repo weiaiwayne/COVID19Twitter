@@ -1,5 +1,8 @@
 ## Visualizing the Twitter discourse on COVID-19
 
+### Daily Counts
+[#CoronavirusOutbreak](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_DailyCount.html)
+
 ### What data are we collecting
 My research team started collecting COVID-19-related tweets in late January, 2020, shortly after the lockdown of Wuhan, and weeks before the novel coronavirus was given the official name COVID-19. The hashtags we have been tracking include: 
 
