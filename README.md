@@ -1,7 +1,14 @@
 ## Visualizing the Twitter discourse on COVID-19
 
 ### Daily Counts
-[#CoronavirusOutbreak](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_DailyCount.html){:target="_blank" rel="noopener"}
+
+- [#CoronavirusOutbreak](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_DailyCount.html){:target="_blank" rel="noopener"}
+
+### Twitter Bio Hashtag Networks 
+_The networks are created based on the co-occurrence of hashtags in Twitter bios of anyone who tweeted, retweeted, or mentioned #CoronavirusOutbreak. The Twitter Bio Hashtag Networks reveal user clusters defined by geography, ideologies, topics, and interests._
+
+- [#CoronavirusOutbreak](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Bio_Hashtag_Networks.html){:target="_blank" rel="noopener"}
+
 
 ### What data are we collecting
 My research team started collecting COVID-19-related tweets in late January, 2020, shortly after the lockdown of Wuhan, and weeks before the novel coronavirus was given the official name COVID-19. The hashtags we have been tracking include: 
