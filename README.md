@@ -33,7 +33,7 @@ The visualization you are seeing here is a spin-off of a larger project on the p
 
 ### Timeline
 
-In the coming weeks/months, we will roll out the visualization one hashtag at a time. Because Pushshift.io will soon publish 250 million tweets related to the Coronavirus (https://twitter.com/jasonbaumgartne/status/1240469078009171970), which is a much bigger dataset than the one we currently use. We plan to build a separate visualization based on the Pushshift dataset in the near future.  
+In the coming weeks/months, we will roll out the visualization one hashtag at a time. Because Pushshift.io will soon [publish 250 million tweets related to the Coronavirus](https://twitter.com/jasonbaumgartne/status/1240469078009171970), which is a much bigger dataset than the one we currently use. We plan to build a separate visualization based on the Pushshift dataset in the near future.  
 
 ### Support or Contact
 
