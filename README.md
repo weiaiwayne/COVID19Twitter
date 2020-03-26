@@ -5,9 +5,15 @@
 ### _#CoronavirusOutbreak_
 
 - [Daily Counts](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_DailyCount.html){:target="_blank" rel="noopener"}
+
 - [Twitter Bio Hashtag Networks - Jan. 2020](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Bio_Hashtag_Networks_jan.html){:target="_blank" rel="noopener"}
 - [Twitter Bio Hashtag Networks - Feb. 2020](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Bio_Hashtag_Networks_feb.html){:target="_blank" rel="noopener"}
 - [Twitter Bio Hashtag Networks - Mar. 2020](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Bio_Hashtag_Networks_march.html){:target="_blank" rel="noopener"}
+
+- [Tweet Hashtag Networks - Jan. 2020](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Tweet_Hashtag_Networks_jan.html){:target="_blank" rel="noopener"}
+- [Tweet Hashtag Networks - Feb. 2020](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Tweet_Hashtag_Networks_feb.html){:target="_blank" rel="noopener"}
+- [Tweet Hashtag Networks - Mar. 2020](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Tweet_Hashtag_Networks_march.html){:target="_blank" rel="noopener"}
+
 - [Galaxy-look of the Bio Hashtag Networks - Week 1](https://weiaiwayne.github.io/COVID19Twitter/grapher/w1_coronavirusoutbreak_b.html){:target="_blank" rel="noopener"}
 - [Galaxy-look of the Bio Hashtag Networks - Week 2](https://weiaiwayne.github.io/COVID19Twitter/grapher/w2_coronavirusoutbreak_b.html){:target="_blank" rel="noopener"}
 - [Galaxy-look of the Bio Hashtag Networks - Week 3](https://weiaiwayne.github.io/COVID19Twitter/grapher/w3_coronavirusoutbreak_b.html){:target="_blank" rel="noopener"}
@@ -16,6 +22,15 @@
 - [Galaxy-look of the Bio Hashtag Networks - Week 6](https://weiaiwayne.github.io/COVID19Twitter/grapher/w6_coronavirusoutbreak_b.html){:target="_blank" rel="noopener"}
 - [Galaxy-look of the Bio Hashtag Networks - Week 7](https://weiaiwayne.github.io/COVID19Twitter/grapher/w7_coronavirusoutbreak_b.html){:target="_blank" rel="noopener"}
 - [Galaxy-look of the Bio Hashtag Networks - Week 8](https://weiaiwayne.github.io/COVID19Twitter/grapher/w8_coronavirusoutbreak_b.html){:target="_blank" rel="noopener"}
+
+- [Galaxy-look of the Tweet Hashtag Networks - Week 1](https://weiaiwayne.github.io/COVID19Twitter/grapher/w1_coronavirusoutbreak_t.html){:target="_blank" rel="noopener"}
+- [Galaxy-look of the Tweet Hashtag Networks - Week 2](https://weiaiwayne.github.io/COVID19Twitter/grapher/w2_coronavirusoutbreak_t.html){:target="_blank" rel="noopener"}
+- [Galaxy-look of the Tweet Hashtag Networks - Week 3](https://weiaiwayne.github.io/COVID19Twitter/grapher/w3_coronavirusoutbreak_t.html){:target="_blank" rel="noopener"}
+- [Galaxy-look of the Tweet Hashtag Networks - Week 4](https://weiaiwayne.github.io/COVID19Twitter/grapher/w4_coronavirusoutbreak_t.html){:target="_blank" rel="noopener"}
+- [Galaxy-look of the Tweet Hashtag Networks - Week 5](https://weiaiwayne.github.io/COVID19Twitter/grapher/w5_coronavirusoutbreak_t.html){:target="_blank" rel="noopener"}
+- [Galaxy-look of the Tweet Hashtag Networks - Week 6](https://weiaiwayne.github.io/COVID19Twitter/grapher/w6_coronavirusoutbreak_t.html){:target="_blank" rel="noopener"}
+- [Galaxy-look of the Tweet Hashtag Networks - Week 7](https://weiaiwayne.github.io/COVID19Twitter/grapher/w7_coronavirusoutbreak_t.html){:target="_blank" rel="noopener"}
+- [Galaxy-look of the Tweet Hashtag Networks - Week 8](https://weiaiwayne.github.io/COVID19Twitter/grapher/w8_coronavirusoutbreak_t.html){:target="_blank" rel="noopener"}
  
 ### _#COVID19_ 
 ### _#Coronvirus_
