@@ -3,7 +3,6 @@
 ## Hashtags
 
 ### _#CoronavirusOutbreak_
-
 - [Daily Counts](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_DailyCount.html){:target="_blank" rel="noopener"}
 
 - [Twitter Bio Hashtag Networks - Jan. 2020](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_Bio_Hashtag_Networks_jan.html){:target="_blank" rel="noopener"}
