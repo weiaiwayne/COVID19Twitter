@@ -56,5 +56,4 @@ Having question with the visualization? Want a collaboration on research or gran
 ## Public COVID19 Tweet Datasets
 
 [Data from Georgia State University's Panacea Lab](http://www.panacealab.org/covid19/?author_id=66014285&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&from=singlemessage)
-
 [Data from University of Southern California](https://github.com/echen102/COVID-19-TweetIDs)
