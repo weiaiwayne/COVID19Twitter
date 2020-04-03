@@ -2,7 +2,7 @@
 
 ## Reddit Discourse
 
-- [Top Domains Over Time]()
+- [Top Domains Over Time](https://weiaiwayne.github.io/COVID19Twitter/Reddit/Vis_Daily_TopDomains.html){:target="_blank" rel="noopener"}
 
 ## Twitter Hashtags
 
