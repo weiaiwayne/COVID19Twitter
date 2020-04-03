@@ -1,6 +1,10 @@
-## Visualizing the Twitter discourse on COVID-19
+## Visualizing the Social Media discourse on COVID-19
 
-## Hashtags
+## Reddit Discourse
+
+- [Top Domains Over Time]()
+
+## Twitter Hashtags
 
 ### _#CoronavirusOutbreak_
 - [Daily Counts](https://weiaiwayne.github.io/COVID19Twitter/CoronavirusOutbreak_DailyCount.html){:target="_blank" rel="noopener"}
